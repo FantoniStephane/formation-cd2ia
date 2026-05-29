@@ -1,0 +1,6 @@
+Half-True - 2
+False - 1
+Mostly-True - 3
+True - 5
+Barely-True - 0
+Not-Known - 4
